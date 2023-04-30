@@ -4,7 +4,7 @@ This is a lightweight and optimized script for FiveM that integrates with the Di
 ## Features
 - Integrates with the Discord API to allow for real-time communication between FiveM and Discord.
 - Optimized for performance and resource usage to minimize server overhead.
-= Lightweight and easy to install and configure.
+- Lightweight and easy to install and configure.
 
 ## Installation
 1. Clone or Download the repository.
