@@ -16,5 +16,5 @@ This is a lightweight and optimized script for FiveM that integrates with the Di
 ## Usage / Documentation
 For usage and detailed documentation please visit: https://docs.trase.dev/
 
-##Contributing
+## Contributing
 Contributions are welcome! Please submit pull requests or issues if you find bugs or have suggestions for improvement.
