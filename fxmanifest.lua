@@ -1,3 +1,7 @@
+---------------------------------------------------
+------- For more support, scripts, and more -------
+-------     https://discord.gg/trase     ----------
+---------------------------------------------------
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'

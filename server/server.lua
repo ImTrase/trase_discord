@@ -1,3 +1,8 @@
+---------------------------------------------------
+------- For more support, scripts, and more -------
+-------     https://discord.gg/trase     ----------
+---------------------------------------------------
+
 local CreateThread = CreateThread
 local loaded = false
 local cache = {}

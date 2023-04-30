@@ -1,3 +1,8 @@
+---------------------------------------------------
+------- For more support, scripts, and more -------
+-------     https://discord.gg/trase     ----------
+---------------------------------------------------
+
 CreateThread(function()
 	while (true) do
         Wait(0)
