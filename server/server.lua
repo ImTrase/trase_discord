@@ -203,7 +203,7 @@ end)
 
 
 exports('getRoles', getRoles)
-exports('hasRole', getRoles)
+exports('hasRole', hasRole)
 exports('getUsername', getUsername)
 exports('getAvatar', getAvatar)
 exports('getUser', getUser)
