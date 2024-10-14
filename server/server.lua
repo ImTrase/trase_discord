@@ -53,7 +53,7 @@ local function getDiscordInfo(target, onlyRoles)
                     end
 
                     if (resultData?.user?.avatar) then   
-                        d.avatar = ('https://cdn.discordapp.com/avatars/%s/%s.%s'):format(id, resultData.user.avatar, resultData.user.avatar:sub(1, 1) and resultData.user.avatar:sub(2, 2) == '_' and 'gif' or 'png')
+                        d.avatar = ('https://cdn.discordapp.com/avatars/%s/%s.%s'):format(discordID, resultData.user.avatar, resultData.user.avatar:sub(1, 1) and resultData.user.avatar:sub(2, 2) == '_' and 'gif' or 'png')
                     end
                 end
 
