@@ -1,30 +1,11 @@
------------------------------------------------------
----- For more scripts and updates, visit ------------
---------- https://discord.gg/trase ------------------
------------------------------------------------------
+---------------------------------------------------
+------- For more support, scripts, and more -------
+-------     https://discord.gg/trase     ----------
+---------------------------------------------------
+
+-- Fully server-sided, modders cannot dump it.
 
 Config = {}
 
-Config.Command = {
-    Enabled = true, -- Enable or disable the command
-    Command = 'pedmenu',
-    RequiredRole = 960632501775257671, -- Discord role id or FALSE (requires: https://github.com/ImTrase/trase_discord)
-}
-
-Config.Peds = {
-    {
-        Name = 'Michael',
-        Model = `player_zero`,
-        Description = 'Become Michael De Santa',
-    },
-    {
-        Name = 'Franklin',
-        Model = `player_one`,
-        Description = 'Become Franklin Clinton',
-    },
-    {
-        Name = 'Trevor',
-        Model = `player_two`,
-        Description = 'Become Trevor Philips',
-    },
-}
+Config.Token = ''
+Config.Guild = ''
